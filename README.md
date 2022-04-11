@@ -1,4 +1,4 @@
-### Hi there 👋
+### Welcome to Karim Paul's Profile! 👋
 
 <!--
 **simp4code/simp4code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 
 
 -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Software+Developer;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Java+%26+VB.NET+Developer)](https://git.io/typing-svg)
