@@ -21,7 +21,8 @@ Here are some ideas to get you started:
 <details>
     <summary>&#127942 <b>Github Stats</b></summary><br/>
 [![@simp4code's GitHub stats](https://github-readme-stats.vercel.app/api?username=simp4code)](https://github.com/simp4code/github-readme-stats)
-<details>
+</details>
+    
 </details>
     <summary>&#127942 <b>Languages Used</b></summary><br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simp4code&layout=compact)](https://github.com/simp4code/github-readme-stats)
