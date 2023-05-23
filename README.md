@@ -1,4 +1,4 @@
-### Welcome to Karim Paul's Profile! 👋
+### Hi, I'm Karim! 👋
 
 <!--
 **simp4code/simp4code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,3 +18,6 @@ Here are some ideas to get you started:
 -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Java+Developer)](https://git.io/typing-svg)
 [![An image of @simp4code's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/simp4code)](https://holopin.io/@simp4code)
+
+### Stats
+[![@simp4code's GitHub stats](https://github-readme-stats.vercel.app/api?username=simp4code)](https://github.com/simp4code/github-readme-stats)
