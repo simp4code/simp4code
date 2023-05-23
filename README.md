@@ -18,9 +18,18 @@ Here are some ideas to get you started:
 -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Java+Developer)](https://git.io/typing-svg)
 [![An image of @simp4code's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/simp4code)](https://holopin.io/@simp4code)
-
-### Stats
+<details>
+    <summary>&#127942 <b>Github Stats</b></summary><br/>
 [![@simp4code's GitHub stats](https://github-readme-stats.vercel.app/api?username=simp4code)](https://github.com/simp4code/github-readme-stats)
-
-### Languages
+<details>
+</details>
+    <summary>&#127942 <b>Languages Used</b></summary><br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simp4code&layout=compact)](https://github.com/simp4code/github-readme-stats)
+</details>
+
+<details>
+    <summary>&#127942 <b>GitHub Trophies</b></summary><br/>
+
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=simp4code)
+
+</details>
