@@ -21,3 +21,6 @@ Here are some ideas to get you started:
 
 ### Stats
 [![@simp4code's GitHub stats](https://github-readme-stats.vercel.app/api?username=simp4code)](https://github.com/simp4code/github-readme-stats)
+
+### Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simp4code&layout=compact)](https://github.com/simp4code/github-readme-stats)
