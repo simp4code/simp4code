@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <details>
     <summary>&#127942<b>Certificates</b></summary><br/>
-    ![java basic](https://github.com/simp4code/simp4code/blob/main/java_basic certificate-1.png?raw=true
+    ![java basic]([http://url/to/img.png](https://github.com/simp4code/simp4code/blob/main/java_basic.png))
 </details>
 <details>
     <summary>&#127942 <b>Github Stats</b></summary><br/>
