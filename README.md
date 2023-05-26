@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 [![An image of @simp4code's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/simp4code)](https://holopin.io/@simp4code)
 ### Certificates 
 <br/>
-![Java](https://github.com/simp4code/simp4code/blob/main/java_basic.png "Java Basic Certificate" =250x250)
+<img src="https://github.com/simp4code/simp4code/blob/main/java_basic.png" data-canonical-src="https://github.com/simp4code/simp4code/blob/main/java_basic.png" width="400" height="300" />
 
 <details>
     <summary>&#127942 <b>Github Stats</b></summary><br/>
