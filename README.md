@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <details>
     <summary>&#127942<b>Certificates</b></summary><br/>
-    ![Java Certificate](https://www.hackerrank.com/certificates/200ce7539511)
+    [![Java Certificate](https://www.hackerrank.com/certificates/200ce7539511)]
 </details>
 <details>
     <summary>&#127942 <b>Github Stats</b></summary><br/>
