@@ -18,10 +18,12 @@ Here are some ideas to get you started:
 -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Java+Developer)](https://git.io/typing-svg)
 [![An image of @simp4code's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/simp4code)](https://holopin.io/@simp4code)
-<summary>&#127942 <b>Certificates</b></summary><br/> 
-<br/>
-<img src="https://github.com/simp4code/simp4code/blob/main/java_basic.png" data-canonical-src="https://github.com/simp4code/simp4code/blob/main/java_basic.png" width="400" height="300" />
 
+<details>
+    <summary>&#127942 <b>Certificates</b></summary><br/> 
+    <img src="https://github.com/simp4code/simp4code/blob/main/java_basic.png" data-canonical-              src="https://github.com/simp4code/simp4code/blob/main/java_basic.png" width="400" height="300" />
+
+</details>
 <details>
     <summary>&#127942 <b>Github Stats</b></summary><br/>
     
