@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <details>
     <summary>&#127942<b>Certificates</b></summary><br/>
-    ![Java Certificate](java_basic certificate.pdf)
+    xfun::embed_file(java_basic certificate.pdf)
 </details>
 <details>
     <summary>&#127942 <b>Github Stats</b></summary><br/>
