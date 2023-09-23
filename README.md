@@ -24,7 +24,7 @@ Here are some ideas to get you started:
     <img src="https://github.com/simp4code/simp4code/blob/main/java_basic.png" data-canonical-              src="https://github.com/simp4code/simp4code/blob/main/java_basic.png" width="400" height="300" />
      <img src="https://github.com/simp4code/simp4code/blob/main/sql_basic.png" data-canonical-              src="https://github.com/simp4code/simp4code/blob/main/sql_basic.png" width="400" height="300" />
       <img src="https://github.com/simp4code/simp4code/blob/main/sql_intermediate.png" data-canonical-              src="https://github.com/simp4code/simp4code/blob/main/sql_intermediate.png" width="400" height="300" /> 
-       <!--<img src="https://github.com/simp4code/simp4code/blob/main/tableau_training.png" data-canonical-              src="https://github.com/simp4code/simp4code/blob/main/sql_intermediate.png" width="400" height="300" />
+       <!-- <img src="https://github.com/simp4code/simp4code/blob/main/tableau_training.png" data-canonical-              src="https://github.com/simp4code/simp4code/blob/main/sql_intermediate.png" width="400" height="300" /> -->
 
 </details>
 <details>
